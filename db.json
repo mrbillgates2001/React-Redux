@@ -1,0 +1,315 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "fullname": "John Smith",
+      "group": "Group 1",
+      "phone": "+99878 654 21 14"
+    },
+    {
+      "id": "2884",
+      "fullname": "Edgar Shaw",
+      "group": "Group 1",
+      "phone": "+998 97 154 24 05"
+    },
+    {
+      "id": "0e3e",
+      "fullname": "Sarah Kate",
+      "group": "Group 3",
+      "phone": "+1 010-692-6593"
+    },
+    {
+      "id": "4f4f",
+      "fullname": "Georgina Ramires",
+      "group": "Group 2",
+      "phone": "493-170-9623 x1561"
+    },
+    {
+      "id": "f234",
+      "fullname": "Shahboz Nabiyev",
+      "group": "Group 4",
+      "phone": "+998 97 263 93 25"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "0cd6",
+      "fullname": "Linkolin Abraham",
+      "group": "Group 2",
+      "phone": "+998 97 154 24 05",
+      "level": "Senior"
+    },
+    {
+      "id": "d20b",
+      "fullname": "Anna William",
+      "group": "Group 2",
+      "phone": "+998 97 263 93 25",
+      "level": "Middle"
+    },
+    {
+      "id": "8307",
+      "fullname": "Justin Beiber",
+      "group": "Group 4",
+      "phone": "493-170-9623 x1561",
+      "level": "Junior"
+    },
+    {
+      "id": "d0aa",
+      "fullname": "Alex Freman",
+      "group": "Group 3",
+      "phone": "+998 97 154 24 05",
+      "level": "Senior"
+    },
+    {
+      "id": "f6dd",
+      "fullname": "Julia Steward",
+      "group": "Group 3",
+      "phone": "+564 231 64 851",
+      "level": "Senior"
+    },
+    {
+      "id": "3a36",
+      "fullname": "Juliana Klarisaa",
+      "group": "Group 3",
+      "level": "Middle",
+      "phone": "+79856 9845616"
+    }
+  ],
+  "login": [
+    {
+      "id": "e125",
+      "username": "ID15949",
+      "password": "123456"
+    },
+    {
+      "id": "f3bb",
+      "username": "ID15949",
+      "password": "132456"
+    },
+    {
+      "id": "a826",
+      "username": "ID15949",
+      "password": "132456"
+    },
+    {
+      "id": "2391",
+      "username": "ID15949",
+      "password": "123456"
+    },
+    {
+      "id": "883b",
+      "username": "ID15949",
+      "password": "123456"
+    },
+    {
+      "id": "d360",
+      "username": "ID15949",
+      "password": "123"
+    },
+    {
+      "id": "6b1b",
+      "username": "shahboznabiyev9325",
+      "password": "132456"
+    },
+    {
+      "id": "2984",
+      "username": "boss_2023",
+      "password": "123"
+    },
+    {
+      "id": "f3a3",
+      "username": "ID15949",
+      "password": "123456"
+    },
+    {
+      "id": "06ee",
+      "username": "ID15949",
+      "password": "123564"
+    },
+    {
+      "id": "2eda",
+      "username": "Shahboz",
+      "password": "123456"
+    },
+    {
+      "id": "1f4f",
+      "username": "Shahboz",
+      "password": "123456"
+    },
+    {
+      "id": "9a96",
+      "username": "645123",
+      "password": "98465123"
+    },
+    {
+      "id": "2658",
+      "username": "321",
+      "password": "5665"
+    },
+    {
+      "id": "8fcf",
+      "username": "456123",
+      "password": "654123"
+    },
+    {
+      "id": "0591",
+      "username": "465",
+      "password": "4561"
+    },
+    {
+      "id": "1bd2",
+      "username": "asd",
+      "password": "asd"
+    },
+    {
+      "id": "65c4",
+      "username": "132456",
+      "password": "653"
+    },
+    {
+      "id": "6fb5",
+      "username": "231",
+      "password": "4561"
+    },
+    {
+      "id": "5b00",
+      "username": "1235",
+      "password": "123"
+    },
+    {
+      "id": "9fe6",
+      "username": "546123",
+      "password": "456123"
+    },
+    {
+      "id": "7cd6",
+      "username": "45612",
+      "password": "894561"
+    },
+    {
+      "id": "08e9",
+      "username": "56316456123",
+      "password": "64512"
+    },
+    {
+      "id": "3b2b",
+      "username": "84561",
+      "password": "894561"
+    },
+    {
+      "id": "c0c8",
+      "username": "97846",
+      "password": "984651"
+    },
+    {
+      "id": "1d8d",
+      "username": "984561",
+      "password": "9846"
+    },
+    {
+      "id": "b159",
+      "username": "98465312",
+      "password": "97461"
+    },
+    {
+      "id": "2553",
+      "username": "894561",
+      "password": "845612"
+    },
+    {
+      "id": "9459",
+      "username": "4561",
+      "password": "845956"
+    },
+    {
+      "id": "598b",
+      "username": "978456",
+      "password": "9898456"
+    },
+    {
+      "id": "75cd",
+      "username": "978456123",
+      "password": "789456123"
+    },
+    {
+      "id": "66f9",
+      "username": "78945",
+      "password": "8456"
+    },
+    {
+      "id": "7540",
+      "username": "8456",
+      "password": "846513"
+    },
+    {
+      "id": "c177",
+      "username": "64146",
+      "password": "84561"
+    },
+    {
+      "id": "f4c9",
+      "username": "98456",
+      "password": "84651"
+    },
+    {
+      "id": "b82f",
+      "username": "845616854",
+      "password": "54512"
+    },
+    {
+      "id": "955a",
+      "username": "4451338465123",
+      "password": "6451236541"
+    },
+    {
+      "id": "e818",
+      "username": "4456123",
+      "password": "4651"
+    },
+    {
+      "id": "9e55",
+      "username": "84561",
+      "password": "984561"
+    },
+    {
+      "id": "1c55",
+      "username": "984561894651",
+      "password": "984651"
+    },
+    {
+      "id": "0b4b",
+      "username": "465123",
+      "password": "46512"
+    },
+    {
+      "id": "ba80",
+      "username": "84655623",
+      "password": "9845\\"
+    },
+    {
+      "id": "fb16",
+      "username": "84512",
+      "password": "465123"
+    },
+    {
+      "id": "1e1b",
+      "username": "4845612",
+      "password": "465123"
+    },
+    {
+      "id": "30e4",
+      "username": "46512",
+      "password": "465123"
+    },
+    {
+      "id": "5702",
+      "username": "44651",
+      "password": "894651"
+    },
+    {
+      "id": "c7ee",
+      "username": "98456",
+      "password": "989456"
+    }
+  ]
+}
