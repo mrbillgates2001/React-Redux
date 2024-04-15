@@ -86,42 +86,6 @@ const Students = () => {
 							outline: "none",
 						}}
 					/>
-
-					{/* <Space wrap>
-						<Select
-							// defaultValue="All Groups"
-							style={{
-								width: 150,
-								height: 50,
-							}}
-							onChange={handleFilterChange}
-							// defaultValue={selectedFilter}
-							value={selectedFilter}
-							options={[
-								{
-									value: "All Groups",
-									label: "All Groups",
-								},
-								{
-									value: "Group 1",
-									label: "Group 1",
-								},
-								{
-									value: "Group 2",
-									label: "Group 2",
-								},
-								{
-									value: "Group 3",
-									label: "Group 4",
-								},
-								{
-									value: "Group 4",
-									label: "Group 4",
-								},
-							]}
-						/>
-					</Space> */}
-
 					<Form.Select
 						value={selectedFilter}
 						onChange={handleFilterChange}

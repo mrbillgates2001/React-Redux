@@ -68,11 +68,25 @@
       "level": "Senior"
     },
     {
-      "id": "3a36",
+      "id": "5e6c",
       "fullname": "Juliana Klarisaa",
-      "group": "Group 3",
+      "group": "Group 2",
       "level": "Middle",
-      "phone": "+79856 9845616"
+      "phone": "+998 97 154 24 05"
+    },
+    {
+      "id": "e7cb",
+      "fullname": "Steve Nolan",
+      "group": "Group 1",
+      "level": "Senior",
+      "phone": "+1 856 9845 641"
+    },
+    {
+      "id": "80b8",
+      "fullname": "Lucas Gremier",
+      "group": "Group 1",
+      "phone": "+9854 6541326",
+      "level": "Junior"
     }
   ],
   "login": [
@@ -310,6 +324,56 @@
       "id": "c7ee",
       "username": "98456",
       "password": "989456"
+    },
+    {
+      "id": "9688",
+      "username": "98456",
+      "password": "984561"
+    },
+    {
+      "id": "3f4b",
+      "username": "485613",
+      "password": "984561"
+    },
+    {
+      "id": "a50c",
+      "username": "98456",
+      "password": "84561"
+    },
+    {
+      "id": "e2f3",
+      "username": "98465",
+      "password": "984561"
+    },
+    {
+      "id": "f38f",
+      "username": "89456",
+      "password": "84651"
+    },
+    {
+      "id": "7da0",
+      "username": "7844",
+      "password": "8465"
+    },
+    {
+      "id": "0e16",
+      "username": "84561",
+      "password": "894561"
+    },
+    {
+      "id": "4edd",
+      "username": "7894561",
+      "password": "49561"
+    },
+    {
+      "id": "e408",
+      "username": "45614561",
+      "password": "84612"
+    },
+    {
+      "id": "c7fe",
+      "username": "89456",
+      "password": "984561"
     }
   ]
 }
